@@ -46,7 +46,7 @@ This wil now show the test covered onlu for this file.
 
 ### Unit Tests 
 
-Explain what these tests test, why and how to run them
+
 The tests will each cover a method found within the original src/main/java classes. For example, customerDaoTest, will test a method found withing customerDao.
 We run these tests to confirm that the program is working as we expect it to and to resolve any issues these tests may fine. The process to run these tests can be found above in ## Running the tests.
 
